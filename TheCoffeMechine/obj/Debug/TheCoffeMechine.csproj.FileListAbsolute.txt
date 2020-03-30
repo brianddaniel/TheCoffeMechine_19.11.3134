@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\TheCoffeMechine\bin\Debug\TheCoffeMechine.exe.config
+C:\Users\ASUS\source\repos\TheCoffeMechine\bin\Debug\TheCoffeMechine.exe
+C:\Users\ASUS\source\repos\TheCoffeMechine\bin\Debug\TheCoffeMechine.pdb
+C:\Users\ASUS\source\repos\TheCoffeMechine\obj\Debug\TheCoffeMechine.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\TheCoffeMechine\obj\Debug\TheCoffeMechine.exe
+C:\Users\ASUS\source\repos\TheCoffeMechine\obj\Debug\TheCoffeMechine.pdb
